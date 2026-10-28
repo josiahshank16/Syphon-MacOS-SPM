@@ -1,0 +1,7 @@
+.DS_Store
+.build/
+.build-syphon/
+.swiftpm/
+Syphon.xcframework.zip
+Syphon.xcframework/
+*.xcuserstate
